@@ -7,6 +7,8 @@ The most basic linkedin competitor lmfao
 --- Home ---
 - Custom default pfp for logo
 - Generate QR Code button >> on click >> input(name) input(jobs) input(skills) input(socialmedia)
+- Once inputs go in, ML algorith, neural net, tensorflow, detects what best work would suit you, and recommend crypto to you.
+- You will automatically gain coins for the work you do, and get free bonuses. Creating an age of abundance.
 - QR Code generating...
 - Custom crafted webpage with custom pfp, and QR Code, and basic info
 
@@ -16,4 +18,3 @@ The most basic linkedin competitor lmfao
 - Full names (optional)
 - Social media links
 - Anonymous Crypto Wallet
-

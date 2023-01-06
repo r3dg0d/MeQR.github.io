@@ -18,3 +18,4 @@ The most basic linkedin competitor lmfao
 - Full names (optional)
 - Social media links
 - Anonymous Crypto Wallet
+- Age Identifier?
